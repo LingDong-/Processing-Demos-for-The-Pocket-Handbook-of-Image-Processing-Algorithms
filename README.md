@@ -25,3 +25,28 @@ A work in progress.
 
 Thanks to @golanlevin for gifting me with the (physical) book :)
 
+
+| | |
+|---|---|
+| [![](./AdaptiveDWMTM/preview.png)](./AdaptiveDWMTM) | [![](./AdaptiveMMSE/preview.png)](./AdaptiveMMSE) |
+| [AdaptiveDWMTM](./AdaptiveDWMTM) | [AdaptiveMMSE](./AdaptiveMMSE) |
+| [![](./AlphaMeanFilter/preview.png)](./AlphaMeanFilter) | [![](./Centroid/preview.png)](./Centroid) |
+| [AlphaMeanFilter](./AlphaMeanFilter) | [Centroid](./Centroid) |
+| [![](./Circularity/preview.png)](./Circularity) | [![](./CircularlySymmetricFilter/preview.png)](./CircularlySymmetricFilter) |
+| [Circularity](./Circularity) | [CircularlySymmetricFilter](./CircularlySymmetricFilter) |
+| [![](./DiscreteCosineTransform/preview.png)](./DiscreteCosineTransform) | [![](./DiscreteFourierTransform/preview.png)](./DiscreteFourierTransform) |
+| [DiscreteCosineTransform](./DiscreteCosineTransform) | [DiscreteFourierTransform](./DiscreteFourierTransform) |
+| [![](./GaussianNoise/preview.png)](./GaussianNoise) | [![](./GeometricMeanFilter/preview.png)](./GeometricMeanFilter) |
+| [GaussianNoise](./GaussianNoise) | [GeometricMeanFilter](./GeometricMeanFilter) |
+| [![](./HadamardTransform/preview.png)](./HadamardTransform) | [![](./HarmonicMeanFilter/preview.png)](./HarmonicMeanFilter) |
+| [HadamardTransform](./HadamardTransform) | [HarmonicMeanFilter](./HarmonicMeanFilter) |
+| [![](./HartleyTransform/preview.png)](./HartleyTransform) | [![](./HistogramEqualization/preview.png)](./HistogramEqualization) |
+| [HartleyTransform](./HartleyTransform) | [HistogramEqualization](./HistogramEqualization) |
+| [![](./HistogramSpecification/preview.png)](./HistogramSpecification) | [![](./MaximumAxis/preview.png)](./MaximumAxis) |
+| [HistogramSpecification](./HistogramSpecification) | [MaximumAxis](./MaximumAxis) |
+| [![](./Skeleton/preview.png)](./Skeleton) | [![](./Thickening/preview.png)](./Thickening) |
+| [Skeleton](./Skeleton) | [Thickening](./Thickening) |
+| [![](./Thinning/preview.png)](./Thinning) | [![](./TopHatFilter/preview.png)](./TopHatFilter) |
+| [Thinning](./Thinning) | [TopHatFilter](./TopHatFilter) |
+| [![](./Warping/preview.png)](./Warping) |
+| [Warping](./Warping) |
